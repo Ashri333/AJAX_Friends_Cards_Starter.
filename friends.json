@@ -1,5 +1,5 @@
+
 [
-    [
   {
     "name": "Jordan",
     "relationship": "Teammate",
@@ -30,5 +30,4 @@
     "detail": "Enjoys performing music with friends.",
     "hobbies": ["Music", "Drawing", "Swimming"]
   }
-]
 ]
